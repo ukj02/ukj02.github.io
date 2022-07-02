@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hi, I am CS student at Rutgers University.
 
-Maybe say a some things about yourself.
+I am interested in startup and product building in general.
 
-Or maybe what you plan to blog about.
+This blog will just contain thought's about that.
